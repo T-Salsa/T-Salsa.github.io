@@ -1,0 +1,346 @@
+1,San Jose-Sunnyvale-Santa Clara, CA,95910
+2,Albuquerque, NM,87050
+3,Tucson, AZ,83150
+4,San Francisco-Oakland-Hayward, CA,83120
+5,Waterloo-Cedar Falls, IA,83060
+6,Columbus, IN,82100
+7,Kennewick-Richland, WA,81250
+8,Victoria, TX,80680
+9,Hagerstown-Martinsburg, MD,80300
+10,Tyler, TX,80220
+11,Dover, DE,79970
+12,Washington-Arlington-Alexandria, DC,79920
+13,Baton Rouge, LA,79900
+14,Cumberland, MD,78760
+15,Boulder, CO,78650
+16,San Diego-Carlsbad, CA,78500
+17,Albany, OR,78380
+18,Midland, TX,78190
+19,Corvallis, OR,78110
+20,Lake Charles, LA,78000
+21,New Orleans-Metairie, LA,78000
+22,Boston-Cambridge-Nashua, MA,77660
+23,Huntsville, AL,77440
+24,Portland-Vancouver-Hillsboro, OR,77400
+25,Decatur, AL,77210
+26,Bloomington, IL,76720
+27,Houston-The Woodlands-Sugar Land, TX,76630
+28,Kingsport-Bristol-Bristol, TN,76320
+29,Ann Arbor, MI,76210
+30,Seattle-Tacoma-Bellevue, WA,76200
+31,Santa Cruz-Watsonville, CA,76110
+32,Peoria, IL,75970
+33,Santa Maria-Santa Barbara, CA,75650
+34,Burlington-South Burlington, VT,75380
+35,Portsmouth, NH,75310
+36,Lima, OH,75300
+37,Bridgeport-Stamford-Norwalk, CT,75240
+38,Fond du Lac, WI,75160
+39,Vallejo-Fairfield, CA,75040
+40,Bellingham, WA,74490
+41,Amarillo, TX,74440
+42,La Crosse-Onalaska, WI,74430
+43,Bowling Green, KY,74270
+44,Urban Honolulu, HI,74110
+45,Madison, WI,73930
+46,California-Lexington Park, MD,73880
+47,Philadelphia-Camden-Wilmington, PA,73800
+48,San Luis Obispo-Paso Robles-Arroyo Grande, CA,73740
+49,Clarksville, TN,73440
+50,Los Angeles-Long Beach-Anaheim, CA,73250
+51,Kokomo, IN,73190
+52,Lexington-Fayette, KY,73150
+53,Virginia Beach-Norfolk-Newport News, VA,72280
+54,Bremerton-Silverdale, WA,71990
+55,Sacramento--Roseville--Arden-Arcade, CA,71930
+56,Longview, WA,71690
+57,Owensboro, KY,71640
+58,Bakersfield, CA,71340
+59,Sherman-Denison, TX,71110
+60,Greeley, CO,70620
+61,Carbondale-Marion, IL,70140
+62,St. Joseph, MO,70110
+63,Spokane-Spokane Valley, WA,69440
+64,Albany-Schenectady-Troy, NY,69340
+65,Eugene, OR,69130
+66,Ogden-Clearfield, UT,69100
+67,Denver-Aurora-Lakewood, CO,68990
+68,Phoenix-Mesa-Scottsdale, AZ,68880
+69,Worcester, MA,68780
+70,Parkersburg-Vienna, WV,68670
+71,Appleton, WI,68380
+72,Provo-Orem, UT,68240
+73,Elizabethtown-Fort Knox, KY,68110
+74,Augusta-Richmond County, GA,68070
+75,Savannah, GA,67990
+76,Cincinnati, OH,67880
+77,New York-Newark-Jersey City, NY,67640
+78,Detroit-Warren-Dearborn, MI,67580
+79,Palm Bay-Melbourne-Titusville, FL,67420
+80,Ames, IA,67330
+81,Panama City, FL,67230
+82,Salem, OR,67210
+83,Bangor, ME,67180
+84,Carson City, NV,67160
+85,Manchester, NH,67100
+86,Davenport-Moline-Rock Island, IA,67080
+87,Tulsa, OK,67010
+88,Durham-Chapel Hill, NC,67000
+89,Beaumont-Port Arthur, TX,66970
+90,Milwaukee-Waukesha-West Allis, WI,66890
+91,Danville, IL,66800
+92,Napa, CA,66790
+93,East Stroudsburg, PA,66750
+94,Portland-South Portland, ME,66660
+95,Mobile, AL,66550
+96,Louisville/Jefferson County, KY,66500
+97,Walla Walla, WA,66490
+98,Kansas City, MO,66350
+99,Baltimore-Columbia-Towson, MD,66320
+100,Salt Lake City, UT,66240
+101,Oxnard-Thousand Oaks-Ventura, CA,66120
+102,Greenville-Anderson-Mauldin, SC,66110
+103,Greenville, NC,66080
+104,Gainesville, GA,65740
+105,Springfield, IL,65690
+106,Minneapolis-St. Paul-Bloomington, MN,65640
+107,Danbury, CT,65620
+108,Jacksonville, NC,65590
+109,Bend-Redmond, OR,65530
+110,Fort Collins, CO,65420
+111,Medford, OR,65420
+112,Racine, WI,65390
+113,Grand Island, NE,65370
+114,Prescott, AZ,65350
+115,Wausau, WI,65310
+116,Macon, GA,65290
+117,New Bern, NC,65250
+118,Greensboro-High Point, NC,65180
+119,Abilene, TX,65140
+120,Yuma, AZ,65050
+121,Anchorage, AK,64990
+122,Hartford-West Hartford-East Hartford, CT,64940
+123,Reno, NV,64910
+124,Allentown-Bethlehem-Easton, PA,64890
+125,Riverside-San Bernardino-Ontario, CA,64880
+126,Daphne-Fairhope-Foley, AL,64860
+127,Ithaca, NY,64830
+128,Columbus, OH,64800
+129,Wilmington, NC,64790
+130,Richmond, VA,64770
+131,Pocatello, ID,64720
+132,Chico, CA,64710
+133,Raleigh, NC,64710
+134,Staunton-Waynesboro, VA,64650
+135,Flint, MI,64550
+136,Fairbanks, AK,64520
+137,Dover-Durham, NH,64470
+138,Pittsburgh, PA,64370
+139,Elkhart-Goshen, IN,64340
+140,Chicago-Naperville-Elgin, IL,64330
+141,Sheboygan, WI,64240
+142,New Bedford, MA,64110
+143,Monroe, MI,64020
+144,Battle Creek, MI,64010
+145,Dayton, OH,63970
+146,Midland, MI,63970
+147,Rochester, MN,63960
+148,Birmingham-Hoover, AL,63950
+149,Indianapolis-Carmel-Anderson, IN,63950
+150,Crestview-Fort Walton Beach-Destin, FL,63920
+151,Trenton, NJ,63910
+152,Janesville-Beloit, WI,63900
+153,Syracuse, NY,63790
+154,Rochester, NY,63780
+155,St. Louis, MO,63780
+156,Redding, CA,63760
+157,Cleveland-Elyria, OH,63730
+158,Oklahoma City, OK,63730
+159,Sioux City, IA,63730
+160,Warner Robins, GA,63730
+161,Kalamazoo-Portage, MI,63660
+162,Fargo, ND,63600
+163,Nashville-Davidson--Murfreesboro--Franklin, TN,63540
+164,Buffalo-Cheektowaga-Niagara Falls, NY,63490
+165,Dallas-Fort Worth-Arlington, TX,63490
+166,Memphis, TN,63470
+167,Modesto, CA,63440
+168,Charleston-North Charleston, SC,63400
+169,Pittsfield, MA,63400
+170,Salinas, CA,63400
+171,Reading, PA,63340
+172,Rockford, IL,63250
+173,Stockton-Lodi, CA,63090
+174,Tuscaloosa, AL,63090
+175,Coeur d'Alene, ID,63010
+176,Lewiston-Auburn, ME,62990
+177,Austin-Round Rock, TX,62970
+178,Merced, CA,62930
+179,Billings, MT,62920
+180,New Haven, CT,62900
+181,Duluth, MN,62880
+182,Vineland-Bridgeton, NJ,62840
+183,Omaha-Council Bluffs, NE,62800
+184,Leominster-Gardner, MA,62730
+185,Jonesboro, AR,62720
+186,York-Hanover, PA,62670
+187,Toledo, OH,62580
+188,Bismarck, ND,62540
+189,Tampa-St. Petersburg-Clearwater, FL,62520
+190,Rapid City, SD,62460
+191,Wichita Falls, TX,62460
+192,Lansing-East Lansing, MI,62450
+193,Kingston, NY,62430
+194,Texarkana, TX,62390
+195,Green Bay, WI,62330
+196,Harrisburg-Carlisle, PA,62330
+197,Cedar Rapids, IA,62300
+198,San Antonio-New Braunfels, TX,62220
+199,Casper, WY,62190
+200,Hilton Head Island-Bluffton-Beaufort, SC,62190
+201,Orlando-Kissimmee-Sanford, FL,62120
+202,Pueblo, CO,62120
+203,Barnstable Town, MA,61980
+204,Oshkosh-Neenah, WI,61980
+205,Charlotte-Concord-Gastonia, NC,61960
+206,Wenatchee, WA,61960
+207,Decatur, IL,61930
+208,Jacksonville, FL,61910
+209,Grand Forks, ND,61900
+210,Idaho Falls, ID,61870
+211,Wichita, KS,61830
+212,Fresno, CA,61810
+213,State College, PA,61800
+214,Canton-Massillon, OH,61780
+215,Eau Claire, WI,61780
+216,Grand Rapids-Wyoming, MI,61780
+217,Chattanooga, TN,61770
+218,Spartanburg, SC,61760
+219,St. Cloud, MN,61710
+220,Lincoln, NE,61700
+221,Jefferson City, MO,61650
+222,Montgomery, AL,61650
+223,Springfield, MA,61560
+224,Akron, OH,61540
+225,Gettysburg, PA,61360
+226,Fayetteville, NC,61340
+227,Saginaw, MI,61310
+228,Dalton, GA,61270
+229,Lancaster, PA,61250
+230,Albany, GA,61210
+231,Corpus Christi, TX,61030
+232,Naples-Immokalee-Marco Island, FL,61010
+233,Sumter, SC,60960
+234,Boise City, ID,60940
+235,Watertown-Fort Drum, NY,60940
+236,Iowa City, IA,60930
+237,Port St. Lucie, FL,60780
+238,Odessa, TX,60770
+239,Michigan City-La Porte, IN,60730
+240,Atlantic City-Hammonton, NJ,60620
+241,Knoxville, TN,60580
+242,Rocky Mount, NC,60540
+243,Waterbury, CT,60530
+244,Florence-Muscle Shoals, AL,60520
+245,Mansfield, OH,60490
+246,Santa Rosa, CA,60490
+247,Elmira, NY,60440
+248,Bloomington, IN,60430
+249,Lynchburg, VA,60360
+250,Gainesville, FL,60290
+251,Lebanon, PA,60280
+252,Goldsboro, NC,60250
+253,Winston-Salem, NC,60230
+254,Champaign-Urbana, IL,60200
+255,Burlington, NC,59980
+256,Erie, PA,59900
+257,Jackson, MI,59890
+258,Muskegon, MI,59820
+259,Grand Junction, CO,59710
+260,Williamsport, PA,59600
+261,Miami-Fort Lauderdale-West Palm Beach, FL,59570
+262,Visalia-Porterville, CA,59560
+263,Waco, TX,59560
+264,Bloomsburg-Berwick, PA,59540
+265,Terre Haute, IN,59490
+266,Chambersburg-Waynesboro, PA,59390
+267,Roanoke, VA,59390
+268,Anniston-Oxford-Jacksonville, AL,59360
+269,Springfield, MO,59340
+270,Morgantown, WV,59280
+271,Hickory-Lenoir-Morganton, NC,59250
+272,Niles-Benton Harbor, MI,59250
+273,Kankakee, IL,59190
+274,Charlottesville, VA,59080
+275,Cape Coral-Fort Myers, FL,59030
+276,Glens Falls, NY,58900
+277,Gulfport-Biloxi-Pascagoula, MS,58750
+278,Manhattan, KS,58740
+279,Des Moines-West Des Moines, IA,58610
+280,Utica-Rome, NY,58520
+281,Longview, TX,58510
+282,Auburn-Opelika, AL,58440
+283,Dothan, AL,58400
+284,San Angelo, TX,58380
+285,Twin Falls, ID,58340
+286,Youngstown-Warren-Boardman, OH,58220
+287,Salisbury, MD,57840
+288,Johnstown, PA,57790
+289,Yakima, WA,57640
+290,Ocala, FL,57600
+291,Scranton--Wilkes-Barre--Hazleton, PA,57590
+292,Huntington-Ashland, WV,57520
+293,Lawrence, KS,57410
+294,Jackson, MS,57310
+295,Killeen-Temple, TX,57270
+296,Evansville, IN,57060
+297,Morristown, TN,56800
+298,Joplin, MO,56700
+299,Muncie, IN,56660
+300,Fort Wayne, IN,56330
+301,Charleston, WV,56100
+302,North Port-Sarasota-Bradenton, FL,55680
+303,Missoula, MT,55470
+304,Harrisonburg, VA,55350
+305,Fayetteville-Springdale-Rogers, AR,55090
+306,Florence, SC,54910
+307,Altoona, PA,54890
+308,Valdosta, GA,54700
+309,Myrtle Beach-Conway-North Myrtle Beach, SC,53620
+310,Bay City, MI,53310
+311,South Bend-Mishawaka, IN,53160
+312,Asheville, NC,52950
+313,Yuba City, CA,52790
+314,Cape Girardeau, MO,52730
+315,Columbia, SC,52540
+316,Gadsden, AL,52220
+317,Lafayette, LA,52150
+318,Las Cruces, NM,52100
+319,Little Rock-North Little Rock-Conway, AR,52060
+320,Deltona-Daytona Beach-Ormond Beach, FL,51980
+321,Athens-Clarke County, GA,51880
+322,Lakeland-Winter Haven, FL,51510
+323,Mankato-North Mankato, MN,51470
+324,McAllen-Edinburg-Mission, TX,51470
+325,Columbia, MO,51060
+326,Binghamton, NY,50910
+327,Blacksburg-Christiansburg-Radford, VA,50690
+328,Providence-Warwick, RI,49980
+329,Grants Pass, OR,49860
+330,Fort Smith, AR,49810
+331,Lafayette-West Lafayette, IN,49720
+332,Springfield, OH,49710
+333,Weirton-Steubenville, WV,49630
+334,San Juan-Carolina-Caguas, PR,49450
+335,College Station-Bryan, TX,49240
+336,Las Vegas-Henderson-Paradise, NV,49220
+337,Lubbock, TX,47390
+338,Topeka, KS,47140
+339,Brownsville-Harlingen, TX,47000
+340,Winchester, VA,46840
+341,Tallahassee, FL,45100
+342,El Paso, TX,44130
+343,St. George, UT,42590
+344,Sioux Falls, SD,41390
+345,Logan, UT,41020
+346,Atlanta-Sandy Springs-Roswell, GA,36560
